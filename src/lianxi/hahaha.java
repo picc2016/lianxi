@@ -3,7 +3,7 @@ package lianxi;
 public class hahaha {
 
 	public static void main(String[] args) {
-		System.out.println("what are you ÅªÉ¶àÏ£¿£¿£¿");
+		System.out.println("what are you å¼„å•¥å˜ž??");
 	} 
 
 }
